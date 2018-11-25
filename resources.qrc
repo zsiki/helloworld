@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/helloworld" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
